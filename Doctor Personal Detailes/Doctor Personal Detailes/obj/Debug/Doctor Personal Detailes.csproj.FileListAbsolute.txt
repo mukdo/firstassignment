@@ -1,0 +1,158 @@
+c:\users\dcl\documents\visual studio 2015\Projects\Doctor Personal Detailes\Doctor Personal Detailes\bin\ApplicationInsights.config
+c:\users\dcl\documents\visual studio 2015\Projects\Doctor Personal Detailes\Doctor Personal Detailes\bin\roslyn\csc.exe
+c:\users\dcl\documents\visual studio 2015\Projects\Doctor Personal Detailes\Doctor Personal Detailes\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+c:\users\dcl\documents\visual studio 2015\Projects\Doctor Personal Detailes\Doctor Personal Detailes\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+c:\users\dcl\documents\visual studio 2015\Projects\Doctor Personal Detailes\Doctor Personal Detailes\bin\roslyn\Microsoft.CodeAnalysis.dll
+c:\users\dcl\documents\visual studio 2015\Projects\Doctor Personal Detailes\Doctor Personal Detailes\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+c:\users\dcl\documents\visual studio 2015\Projects\Doctor Personal Detailes\Doctor Personal Detailes\bin\roslyn\Microsoft.CSharp.Core.targets
+c:\users\dcl\documents\visual studio 2015\Projects\Doctor Personal Detailes\Doctor Personal Detailes\bin\roslyn\Microsoft.VisualBasic.Core.targets
+c:\users\dcl\documents\visual studio 2015\Projects\Doctor Personal Detailes\Doctor Personal Detailes\bin\roslyn\System.Collections.Immutable.dll
+c:\users\dcl\documents\visual studio 2015\Projects\Doctor Personal Detailes\Doctor Personal Detailes\bin\roslyn\System.Reflection.Metadata.dll
+c:\users\dcl\documents\visual studio 2015\Projects\Doctor Personal Detailes\Doctor Personal Detailes\bin\roslyn\vbc.exe
+c:\users\dcl\documents\visual studio 2015\Projects\Doctor Personal Detailes\Doctor Personal Detailes\bin\roslyn\VBCSCompiler.exe
+c:\users\dcl\documents\visual studio 2015\Projects\Doctor Personal Detailes\Doctor Personal Detailes\bin\roslyn\VBCSCompiler.exe.config
+c:\users\dcl\documents\visual studio 2015\Projects\Doctor Personal Detailes\Doctor Personal Detailes\bin\Doctor Personal Detailes.dll.config
+c:\users\dcl\documents\visual studio 2015\Projects\Doctor Personal Detailes\Doctor Personal Detailes\bin\Doctor Personal Detailes.dll
+c:\users\dcl\documents\visual studio 2015\Projects\Doctor Personal Detailes\Doctor Personal Detailes\bin\Doctor Personal Detailes.pdb
+c:\users\dcl\documents\visual studio 2015\Projects\Doctor Personal Detailes\Doctor Personal Detailes\bin\Antlr3.Runtime.dll
+c:\users\dcl\documents\visual studio 2015\Projects\Doctor Personal Detailes\Doctor Personal Detailes\bin\AspNet.ScriptManager.bootstrap.dll
+c:\users\dcl\documents\visual studio 2015\Projects\Doctor Personal Detailes\Doctor Personal Detailes\bin\AspNet.ScriptManager.jQuery.dll
+c:\users\dcl\documents\visual studio 2015\Projects\Doctor Personal Detailes\Doctor Personal Detailes\bin\EntityFramework.dll
+c:\users\dcl\documents\visual studio 2015\Projects\Doctor Personal Detailes\Doctor Personal Detailes\bin\EntityFramework.SqlServer.dll
+c:\users\dcl\documents\visual studio 2015\Projects\Doctor Personal Detailes\Doctor Personal Detailes\bin\Microsoft.AI.Agent.Intercept.dll
+c:\users\dcl\documents\visual studio 2015\Projects\Doctor Personal Detailes\Doctor Personal Detailes\bin\Microsoft.AI.DependencyCollector.dll
+c:\users\dcl\documents\visual studio 2015\Projects\Doctor Personal Detailes\Doctor Personal Detailes\bin\Microsoft.AI.PerfCounterCollector.dll
+c:\users\dcl\documents\visual studio 2015\Projects\Doctor Personal Detailes\Doctor Personal Detailes\bin\Microsoft.AI.ServerTelemetryChannel.dll
+c:\users\dcl\documents\visual studio 2015\Projects\Doctor Personal Detailes\Doctor Personal Detailes\bin\Microsoft.AI.Web.dll
+c:\users\dcl\documents\visual studio 2015\Projects\Doctor Personal Detailes\Doctor Personal Detailes\bin\Microsoft.AI.WindowsServer.dll
+c:\users\dcl\documents\visual studio 2015\Projects\Doctor Personal Detailes\Doctor Personal Detailes\bin\Microsoft.ApplicationInsights.dll
+c:\users\dcl\documents\visual studio 2015\Projects\Doctor Personal Detailes\Doctor Personal Detailes\bin\Microsoft.AspNet.FriendlyUrls.dll
+c:\users\dcl\documents\visual studio 2015\Projects\Doctor Personal Detailes\Doctor Personal Detailes\bin\Microsoft.AspNet.Identity.Core.dll
+c:\users\dcl\documents\visual studio 2015\Projects\Doctor Personal Detailes\Doctor Personal Detailes\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+c:\users\dcl\documents\visual studio 2015\Projects\Doctor Personal Detailes\Doctor Personal Detailes\bin\Microsoft.AspNet.Identity.Owin.dll
+c:\users\dcl\documents\visual studio 2015\Projects\Doctor Personal Detailes\Doctor Personal Detailes\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+c:\users\dcl\documents\visual studio 2015\Projects\Doctor Personal Detailes\Doctor Personal Detailes\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+c:\users\dcl\documents\visual studio 2015\Projects\Doctor Personal Detailes\Doctor Personal Detailes\bin\Microsoft.Owin.dll
+c:\users\dcl\documents\visual studio 2015\Projects\Doctor Personal Detailes\Doctor Personal Detailes\bin\Microsoft.Owin.Host.SystemWeb.dll
+c:\users\dcl\documents\visual studio 2015\Projects\Doctor Personal Detailes\Doctor Personal Detailes\bin\Microsoft.Owin.Security.Cookies.dll
+c:\users\dcl\documents\visual studio 2015\Projects\Doctor Personal Detailes\Doctor Personal Detailes\bin\Microsoft.Owin.Security.dll
+c:\users\dcl\documents\visual studio 2015\Projects\Doctor Personal Detailes\Doctor Personal Detailes\bin\Microsoft.Owin.Security.Facebook.dll
+c:\users\dcl\documents\visual studio 2015\Projects\Doctor Personal Detailes\Doctor Personal Detailes\bin\Microsoft.Owin.Security.Google.dll
+c:\users\dcl\documents\visual studio 2015\Projects\Doctor Personal Detailes\Doctor Personal Detailes\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+c:\users\dcl\documents\visual studio 2015\Projects\Doctor Personal Detailes\Doctor Personal Detailes\bin\Microsoft.Owin.Security.OAuth.dll
+c:\users\dcl\documents\visual studio 2015\Projects\Doctor Personal Detailes\Doctor Personal Detailes\bin\Microsoft.Owin.Security.Twitter.dll
+c:\users\dcl\documents\visual studio 2015\Projects\Doctor Personal Detailes\Doctor Personal Detailes\bin\Microsoft.ScriptManager.MSAjax.dll
+c:\users\dcl\documents\visual studio 2015\Projects\Doctor Personal Detailes\Doctor Personal Detailes\bin\Microsoft.ScriptManager.WebForms.dll
+c:\users\dcl\documents\visual studio 2015\Projects\Doctor Personal Detailes\Doctor Personal Detailes\bin\Microsoft.Web.Infrastructure.dll
+c:\users\dcl\documents\visual studio 2015\Projects\Doctor Personal Detailes\Doctor Personal Detailes\bin\Newtonsoft.Json.dll
+c:\users\dcl\documents\visual studio 2015\Projects\Doctor Personal Detailes\Doctor Personal Detailes\bin\Owin.dll
+c:\users\dcl\documents\visual studio 2015\Projects\Doctor Personal Detailes\Doctor Personal Detailes\bin\System.Web.Optimization.dll
+c:\users\dcl\documents\visual studio 2015\Projects\Doctor Personal Detailes\Doctor Personal Detailes\bin\System.Web.Providers.dll
+c:\users\dcl\documents\visual studio 2015\Projects\Doctor Personal Detailes\Doctor Personal Detailes\bin\WebGrease.dll
+c:\users\dcl\documents\visual studio 2015\Projects\Doctor Personal Detailes\Doctor Personal Detailes\bin\Microsoft.AI.DependencyCollector.xml
+c:\users\dcl\documents\visual studio 2015\Projects\Doctor Personal Detailes\Doctor Personal Detailes\bin\Microsoft.AI.ServerTelemetryChannel.xml
+c:\users\dcl\documents\visual studio 2015\Projects\Doctor Personal Detailes\Doctor Personal Detailes\bin\Microsoft.AI.Web.xml
+c:\users\dcl\documents\visual studio 2015\Projects\Doctor Personal Detailes\Doctor Personal Detailes\bin\Microsoft.AI.WindowsServer.xml
+c:\users\dcl\documents\visual studio 2015\Projects\Doctor Personal Detailes\Doctor Personal Detailes\bin\Microsoft.ApplicationInsights.xml
+c:\users\dcl\documents\visual studio 2015\Projects\Doctor Personal Detailes\Doctor Personal Detailes\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+c:\users\dcl\documents\visual studio 2015\Projects\Doctor Personal Detailes\Doctor Personal Detailes\bin\System.Web.Optimization.xml
+c:\users\dcl\documents\visual studio 2015\Projects\Doctor Personal Detailes\Doctor Personal Detailes\bin\Antlr3.Runtime.pdb
+c:\users\dcl\documents\visual studio 2015\Projects\Doctor Personal Detailes\Doctor Personal Detailes\bin\Newtonsoft.Json.xml
+c:\users\dcl\documents\visual studio 2015\Projects\Doctor Personal Detailes\Doctor Personal Detailes\bin\Microsoft.AspNet.FriendlyUrls.xml
+c:\users\dcl\documents\visual studio 2015\Projects\Doctor Personal Detailes\Doctor Personal Detailes\bin\EntityFramework.xml
+c:\users\dcl\documents\visual studio 2015\Projects\Doctor Personal Detailes\Doctor Personal Detailes\bin\EntityFramework.SqlServer.xml
+c:\users\dcl\documents\visual studio 2015\Projects\Doctor Personal Detailes\Doctor Personal Detailes\bin\Microsoft.AspNet.Identity.Core.xml
+c:\users\dcl\documents\visual studio 2015\Projects\Doctor Personal Detailes\Doctor Personal Detailes\bin\Microsoft.AspNet.Identity.Owin.xml
+c:\users\dcl\documents\visual studio 2015\Projects\Doctor Personal Detailes\Doctor Personal Detailes\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+c:\users\dcl\documents\visual studio 2015\Projects\Doctor Personal Detailes\Doctor Personal Detailes\bin\System.Web.Providers.xml
+c:\users\dcl\documents\visual studio 2015\Projects\Doctor Personal Detailes\Doctor Personal Detailes\bin\Microsoft.Owin.xml
+c:\users\dcl\documents\visual studio 2015\Projects\Doctor Personal Detailes\Doctor Personal Detailes\bin\Microsoft.Owin.Host.SystemWeb.xml
+c:\users\dcl\documents\visual studio 2015\Projects\Doctor Personal Detailes\Doctor Personal Detailes\bin\Microsoft.Owin.Security.xml
+c:\users\dcl\documents\visual studio 2015\Projects\Doctor Personal Detailes\Doctor Personal Detailes\bin\Microsoft.Owin.Security.Facebook.xml
+c:\users\dcl\documents\visual studio 2015\Projects\Doctor Personal Detailes\Doctor Personal Detailes\bin\Microsoft.Owin.Security.Cookies.xml
+c:\users\dcl\documents\visual studio 2015\Projects\Doctor Personal Detailes\Doctor Personal Detailes\bin\Microsoft.Owin.Security.Google.xml
+c:\users\dcl\documents\visual studio 2015\Projects\Doctor Personal Detailes\Doctor Personal Detailes\bin\Microsoft.Owin.Security.Twitter.xml
+c:\users\dcl\documents\visual studio 2015\Projects\Doctor Personal Detailes\Doctor Personal Detailes\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+c:\users\dcl\documents\visual studio 2015\Projects\Doctor Personal Detailes\Doctor Personal Detailes\bin\Microsoft.Owin.Security.OAuth.xml
+c:\users\dcl\documents\visual studio 2015\Projects\Doctor Personal Detailes\Doctor Personal Detailes\obj\Debug\Doctor Personal Detailes.csprojResolveAssemblyReference.cache
+c:\users\dcl\documents\visual studio 2015\Projects\Doctor Personal Detailes\Doctor Personal Detailes\obj\Debug\Doctor Personal Detailes.dll
+c:\users\dcl\documents\visual studio 2015\Projects\Doctor Personal Detailes\Doctor Personal Detailes\obj\Debug\Doctor Personal Detailes.pdb
+F:\dot net\Doctor Personal Detailes\Doctor Personal Detailes\bin\ApplicationInsights.config
+F:\dot net\Doctor Personal Detailes\Doctor Personal Detailes\bin\roslyn\csc.exe
+F:\dot net\Doctor Personal Detailes\Doctor Personal Detailes\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+F:\dot net\Doctor Personal Detailes\Doctor Personal Detailes\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+F:\dot net\Doctor Personal Detailes\Doctor Personal Detailes\bin\roslyn\Microsoft.CodeAnalysis.dll
+F:\dot net\Doctor Personal Detailes\Doctor Personal Detailes\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+F:\dot net\Doctor Personal Detailes\Doctor Personal Detailes\bin\roslyn\Microsoft.CSharp.Core.targets
+F:\dot net\Doctor Personal Detailes\Doctor Personal Detailes\bin\roslyn\Microsoft.VisualBasic.Core.targets
+F:\dot net\Doctor Personal Detailes\Doctor Personal Detailes\bin\roslyn\System.Collections.Immutable.dll
+F:\dot net\Doctor Personal Detailes\Doctor Personal Detailes\bin\roslyn\System.Reflection.Metadata.dll
+F:\dot net\Doctor Personal Detailes\Doctor Personal Detailes\bin\roslyn\vbc.exe
+F:\dot net\Doctor Personal Detailes\Doctor Personal Detailes\bin\roslyn\VBCSCompiler.exe
+F:\dot net\Doctor Personal Detailes\Doctor Personal Detailes\bin\roslyn\VBCSCompiler.exe.config
+F:\dot net\Doctor Personal Detailes\Doctor Personal Detailes\bin\Doctor Personal Detailes.dll.config
+F:\dot net\Doctor Personal Detailes\Doctor Personal Detailes\bin\Doctor Personal Detailes.dll
+F:\dot net\Doctor Personal Detailes\Doctor Personal Detailes\bin\Doctor Personal Detailes.pdb
+F:\dot net\Doctor Personal Detailes\Doctor Personal Detailes\bin\Antlr3.Runtime.dll
+F:\dot net\Doctor Personal Detailes\Doctor Personal Detailes\bin\AspNet.ScriptManager.bootstrap.dll
+F:\dot net\Doctor Personal Detailes\Doctor Personal Detailes\bin\AspNet.ScriptManager.jQuery.dll
+F:\dot net\Doctor Personal Detailes\Doctor Personal Detailes\bin\EntityFramework.dll
+F:\dot net\Doctor Personal Detailes\Doctor Personal Detailes\bin\EntityFramework.SqlServer.dll
+F:\dot net\Doctor Personal Detailes\Doctor Personal Detailes\bin\Microsoft.AI.Agent.Intercept.dll
+F:\dot net\Doctor Personal Detailes\Doctor Personal Detailes\bin\Microsoft.AI.DependencyCollector.dll
+F:\dot net\Doctor Personal Detailes\Doctor Personal Detailes\bin\Microsoft.AI.PerfCounterCollector.dll
+F:\dot net\Doctor Personal Detailes\Doctor Personal Detailes\bin\Microsoft.AI.ServerTelemetryChannel.dll
+F:\dot net\Doctor Personal Detailes\Doctor Personal Detailes\bin\Microsoft.AI.Web.dll
+F:\dot net\Doctor Personal Detailes\Doctor Personal Detailes\bin\Microsoft.AI.WindowsServer.dll
+F:\dot net\Doctor Personal Detailes\Doctor Personal Detailes\bin\Microsoft.ApplicationInsights.dll
+F:\dot net\Doctor Personal Detailes\Doctor Personal Detailes\bin\Microsoft.AspNet.FriendlyUrls.dll
+F:\dot net\Doctor Personal Detailes\Doctor Personal Detailes\bin\Microsoft.AspNet.Identity.Core.dll
+F:\dot net\Doctor Personal Detailes\Doctor Personal Detailes\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+F:\dot net\Doctor Personal Detailes\Doctor Personal Detailes\bin\Microsoft.AspNet.Identity.Owin.dll
+F:\dot net\Doctor Personal Detailes\Doctor Personal Detailes\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+F:\dot net\Doctor Personal Detailes\Doctor Personal Detailes\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+F:\dot net\Doctor Personal Detailes\Doctor Personal Detailes\bin\Microsoft.Owin.dll
+F:\dot net\Doctor Personal Detailes\Doctor Personal Detailes\bin\Microsoft.Owin.Host.SystemWeb.dll
+F:\dot net\Doctor Personal Detailes\Doctor Personal Detailes\bin\Microsoft.Owin.Security.Cookies.dll
+F:\dot net\Doctor Personal Detailes\Doctor Personal Detailes\bin\Microsoft.Owin.Security.dll
+F:\dot net\Doctor Personal Detailes\Doctor Personal Detailes\bin\Microsoft.Owin.Security.Facebook.dll
+F:\dot net\Doctor Personal Detailes\Doctor Personal Detailes\bin\Microsoft.Owin.Security.Google.dll
+F:\dot net\Doctor Personal Detailes\Doctor Personal Detailes\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+F:\dot net\Doctor Personal Detailes\Doctor Personal Detailes\bin\Microsoft.Owin.Security.OAuth.dll
+F:\dot net\Doctor Personal Detailes\Doctor Personal Detailes\bin\Microsoft.Owin.Security.Twitter.dll
+F:\dot net\Doctor Personal Detailes\Doctor Personal Detailes\bin\Microsoft.ScriptManager.MSAjax.dll
+F:\dot net\Doctor Personal Detailes\Doctor Personal Detailes\bin\Microsoft.ScriptManager.WebForms.dll
+F:\dot net\Doctor Personal Detailes\Doctor Personal Detailes\bin\Microsoft.Web.Infrastructure.dll
+F:\dot net\Doctor Personal Detailes\Doctor Personal Detailes\bin\Newtonsoft.Json.dll
+F:\dot net\Doctor Personal Detailes\Doctor Personal Detailes\bin\Owin.dll
+F:\dot net\Doctor Personal Detailes\Doctor Personal Detailes\bin\System.Web.Optimization.dll
+F:\dot net\Doctor Personal Detailes\Doctor Personal Detailes\bin\System.Web.Providers.dll
+F:\dot net\Doctor Personal Detailes\Doctor Personal Detailes\bin\WebGrease.dll
+F:\dot net\Doctor Personal Detailes\Doctor Personal Detailes\bin\Microsoft.AI.DependencyCollector.xml
+F:\dot net\Doctor Personal Detailes\Doctor Personal Detailes\bin\Microsoft.AI.ServerTelemetryChannel.xml
+F:\dot net\Doctor Personal Detailes\Doctor Personal Detailes\bin\Microsoft.AI.Web.xml
+F:\dot net\Doctor Personal Detailes\Doctor Personal Detailes\bin\Microsoft.AI.WindowsServer.xml
+F:\dot net\Doctor Personal Detailes\Doctor Personal Detailes\bin\Microsoft.ApplicationInsights.xml
+F:\dot net\Doctor Personal Detailes\Doctor Personal Detailes\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+F:\dot net\Doctor Personal Detailes\Doctor Personal Detailes\bin\System.Web.Optimization.xml
+F:\dot net\Doctor Personal Detailes\Doctor Personal Detailes\bin\Antlr3.Runtime.pdb
+F:\dot net\Doctor Personal Detailes\Doctor Personal Detailes\bin\Newtonsoft.Json.xml
+F:\dot net\Doctor Personal Detailes\Doctor Personal Detailes\bin\Microsoft.AspNet.FriendlyUrls.xml
+F:\dot net\Doctor Personal Detailes\Doctor Personal Detailes\bin\EntityFramework.xml
+F:\dot net\Doctor Personal Detailes\Doctor Personal Detailes\bin\EntityFramework.SqlServer.xml
+F:\dot net\Doctor Personal Detailes\Doctor Personal Detailes\bin\Microsoft.AspNet.Identity.Core.xml
+F:\dot net\Doctor Personal Detailes\Doctor Personal Detailes\bin\Microsoft.AspNet.Identity.Owin.xml
+F:\dot net\Doctor Personal Detailes\Doctor Personal Detailes\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+F:\dot net\Doctor Personal Detailes\Doctor Personal Detailes\bin\System.Web.Providers.xml
+F:\dot net\Doctor Personal Detailes\Doctor Personal Detailes\bin\Microsoft.Owin.xml
+F:\dot net\Doctor Personal Detailes\Doctor Personal Detailes\bin\Microsoft.Owin.Host.SystemWeb.xml
+F:\dot net\Doctor Personal Detailes\Doctor Personal Detailes\bin\Microsoft.Owin.Security.xml
+F:\dot net\Doctor Personal Detailes\Doctor Personal Detailes\bin\Microsoft.Owin.Security.Facebook.xml
+F:\dot net\Doctor Personal Detailes\Doctor Personal Detailes\bin\Microsoft.Owin.Security.Cookies.xml
+F:\dot net\Doctor Personal Detailes\Doctor Personal Detailes\bin\Microsoft.Owin.Security.Google.xml
+F:\dot net\Doctor Personal Detailes\Doctor Personal Detailes\bin\Microsoft.Owin.Security.Twitter.xml
+F:\dot net\Doctor Personal Detailes\Doctor Personal Detailes\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+F:\dot net\Doctor Personal Detailes\Doctor Personal Detailes\bin\Microsoft.Owin.Security.OAuth.xml
+F:\dot net\Doctor Personal Detailes\Doctor Personal Detailes\obj\Debug\Doctor Personal Detailes.csprojResolveAssemblyReference.cache
+F:\dot net\Doctor Personal Detailes\Doctor Personal Detailes\obj\Debug\Doctor Personal Detailes.dll
+F:\dot net\Doctor Personal Detailes\Doctor Personal Detailes\obj\Debug\Doctor Personal Detailes.pdb
