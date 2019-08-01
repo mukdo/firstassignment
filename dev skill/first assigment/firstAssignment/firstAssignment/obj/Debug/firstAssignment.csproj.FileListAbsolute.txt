@@ -1,0 +1,6 @@
+F:\dot net\dev skill\first assigment\firstAssignment\firstAssignment\bin\Debug\firstAssignment.exe.config
+F:\dot net\dev skill\first assigment\firstAssignment\firstAssignment\obj\Debug\firstAssignment.csprojResolveAssemblyReference.cache
+F:\dot net\dev skill\first assigment\firstAssignment\firstAssignment\bin\Debug\firstAssignment.exe
+F:\dot net\dev skill\first assigment\firstAssignment\firstAssignment\bin\Debug\firstAssignment.pdb
+F:\dot net\dev skill\first assigment\firstAssignment\firstAssignment\obj\Debug\firstAssignment.exe
+F:\dot net\dev skill\first assigment\firstAssignment\firstAssignment\obj\Debug\firstAssignment.pdb
